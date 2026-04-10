@@ -1,7 +1,7 @@
-import React from 'react'
+// import React from 'react'
 import sumit from "../assets/sumitImage.jpg"
-import { AiOutlineArrowRight } from "react-icons/ai"
-import { Link } from 'react-scroll'
+// import { AiOutlineArrowRight } from "react-icons/ai"
+// import { Link } from 'react-scroll'
 
 const Home = () => {
     return (
