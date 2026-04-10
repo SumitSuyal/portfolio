@@ -1,7 +1,6 @@
-// import React from 'react'
 import sumit from "../assets/sumitImage.jpg"
-// import { AiOutlineArrowRight } from "react-icons/ai"
-// import { Link } from 'react-scroll'
+import { AiOutlineArrowRight } from "react-icons/ai"
+import { Link } from 'react-scroll'
 
 const Home = () => {
     return (
@@ -23,7 +22,7 @@ const Home = () => {
                         Passionate about creating efficient, user-centric solutions and continuously learning new technologies.
                     </p>
 
-                    {/* <div>
+                    <div>
                         <Link
                             to='portfolio'
                             smooth
@@ -36,7 +35,7 @@ const Home = () => {
                                 <AiOutlineArrowRight size={25} className='ml-1' />
                             </span>
                         </Link>
-                    </div> */}
+                    </div>
                 </div>
 
                 {/* Right Section */}
