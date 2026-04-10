@@ -6,7 +6,7 @@ This project showcases my skills, projects, and experience as a full stack devel
 ---
 
 ## 🌐 Live Demo
-https://your-site-name.netlify.app
+https://sumitsuyalportfolio.netlify.app/
 
 ---
 
